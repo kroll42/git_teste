@@ -10,3 +10,5 @@ Seja Bem Vindo ao Projeto Palomakoba!
 
 Este é uma atividade sobre os fundamentos do Git
 Dentre os varios assuntos que aprendemos em aula, a troca de headers foi uma delas
+
+Alem da troca de headers, como dar soft e hard resets
