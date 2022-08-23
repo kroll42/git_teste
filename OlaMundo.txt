@@ -7,3 +7,5 @@ Qual sua idade?
 25
 Agradeçemos as suas informações!
 Seja Bem Vindo ao Projeto Palomakoba!
+
+Este é uma atividade sobre os fundamentos do Git
